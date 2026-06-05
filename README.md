@@ -1,4 +1,4 @@
-# Empowered Indian
+# Empowered India
 
 This is the monorepo we'll be using to contain all the code related to the empowered indian platform.
 
